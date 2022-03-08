@@ -1,0 +1,27 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body {
+font-size: 1em;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+background: grey;
+}
+#area-cabecalho {
+background-color: pink;
+padding: 15px;
+text-align: center;
+
+}
+a:link, a:visited{
+color: white;
+padding: 8px 15px;
+}
+a:hover{
+	color: black;
+	background: white;
+}
+a{
+	text-decoration: none;
+}
