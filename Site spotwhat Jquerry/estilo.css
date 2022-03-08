@@ -1,0 +1,57 @@
+body{
+background: url(imagens/fundo.jpg);
+
+}
+
+#navbar{
+	text-align: right;	
+	color: red;
+}
+
+#section1{
+	padding-top: 70px;
+}
+
+footer{
+	background: black;
+	padding: 15px;}
+footer div p a{
+	color:red;
+	padding: 15px;
+}
+
+#final{
+	color: white;
+	align-items: center;
+	justify-content: center;
+}
+header nav div h1{
+	color: white;
+	padding-right: 200px
+
+}
+#section2{
+	padding-top: 20px;
+}
+
+#imagem{
+	width: 260px;
+	height: 220px;
+	padding-bottom: 20px;
+}
+p{
+	text-align: justify;
+}
+#carousel{
+	max-height: 350px;
+	padding-left: 50px;
+}
+h2{
+	padding-left: 75px;
+
+}
+#section3{
+	background: url(imagens/imagem6.jpg);
+	padding-bottom: 20px;
+	opacity: 0.8;
+}
